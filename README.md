@@ -12,7 +12,8 @@ and thrive helping them realise their strategic goals
 with technology. I am an advocate for Agile Development
 practices, and I have significant experience helping
 organisations transition to their target architecture
-through iterative deliverables. All the while generating business value.
+through iterative deliverables. All the while generating
+business value.
 
 ## Key Skills
 
@@ -26,3 +27,12 @@ through iterative deliverables. All the while generating business value.
 * Containerisation
 * CI/CD
 * Agile Architecture
+
+## Get in Contact
+
+I am always happy to speak about possible opportunities
+please feel free to get in contact on any of the following.
+
+[![GitHub](https://img.shields.io/github/followers/baynezy.svg?label=GitHub&style=social)](https://github.com/baynezy)
+[![Twitter](https://img.shields.io/twitter/follow/baynezy?label=Twitter&style=social)](https://twitter.com/baynezy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/simonbaynes)
