@@ -33,6 +33,8 @@ business value.
 I am always happy to speak about possible opportunities
 please feel free to get in contact on any of the following.
 
-[![GitHub](https://img.shields.io/github/followers/baynezy.svg?label=GitHub&style=social)](https://github.com/baynezy)
-[![Twitter](https://img.shields.io/twitter/follow/baynezy?label=Twitter&style=social)](https://twitter.com/baynezy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/simonbaynes)
+[![GitHub](https://img.shields.io/github/followers/baynezy.svg?label=Follow+Me+On+GitHub&style=for-the-badge&color=blueviolet&logo=github)](https://github.com/baynezy)
+[![Twitter](https://img.shields.io/twitter/follow/baynezy?label=Follow+Me+on+Twitter&style=for-the-badge&color=blueviolet&logo=twitter)](https://twitter.com/baynezy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&logo=linkedin&color=blueviolet&label=Connect+With+Me+on+LinkedIn)](https://www.linkedin.com/in/simonbaynes)
+
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=baynezy&color=blueviolet&label=PROFILE+VIEWS)
