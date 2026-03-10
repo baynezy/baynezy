@@ -41,4 +41,4 @@ please feel free to get in contact on any of the following.
 
 ## GitHub Stats
 
-![STATS](https://github-readme-stats.vercel.app/api?username=baynezy&count_private=true&show_icons=true)
+![STATS](profile/stats.svg)
