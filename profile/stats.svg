@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Simon Baynes' GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 391, Total Commits  (last year) : 1004, Total PRs: 738, Total Issues: 758, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 391, Total Commits  (last year) : 1007, Total PRs: 738, Total Issues: 758, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.36226967653573;
+        stroke-dashoffset: 15.340823300043422;
       }
     }
   
