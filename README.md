@@ -41,4 +41,4 @@ please feel free to get in contact on any of the following.
 
 ## GitHub Stats
 
-![STATS](profile/stats.svg)
+![STATS](https://github-stats-extended.vercel.app/api?username=baynezy&theme=radical)
